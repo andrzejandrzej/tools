@@ -1,3 +1,7 @@
+'''
+A simple tool that fits text to fixed width.
+'''
+
 import argparse
 
 try:
