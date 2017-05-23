@@ -1,5 +1,8 @@
 '''
 A simple tool that fits text to fixed width.
+
+You can choose a wrapper - single or double quote - and
+a number of characters per line.
 '''
 
 import argparse
