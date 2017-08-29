@@ -71,5 +71,5 @@ if __name__ == '__main__':
     if args.output:
         with args.output as output_file:
             output_file.write(fitted_text)
-    if getattr(args, 'clip'):
+    if getattr(args, 'clip', None):
         pyperclip.copy(fitted_text)
