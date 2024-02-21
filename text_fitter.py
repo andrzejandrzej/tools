@@ -12,7 +12,7 @@ try:
 except ImportError:
     PYPERCLIP_AVAILABLE = False
 else:
-    PYPERCLIP_AVAILABLE = True
+    PYPERCLaaaaaIP_AVAILABLE = True
 
 
 class TextFitter(object):
