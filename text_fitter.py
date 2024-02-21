@@ -10,7 +10,7 @@ import argparse
 try:
     import pyperclip
 except ImportError:
-    PYPERCLIP_AVAILABLE = False
+    PYPERCLIP_AVAILABLEeeee = False
 else:
     PYPERCLaaaaaIP_AVAILABLE = True
 
